@@ -12,4 +12,6 @@
 
 ## .TRTL Domains
 
-- [TurtlePay](https://turtlepay.trtl) - Fun, Fast, & Easy TurtleCoin™ Payments For Developers, By Developers.
+- [TurtleEDU](http://edu.trtl) - Online Courses for Blockchain Users and Devs.
+- [TurtlePay](http://turtlepay.trtl) - Fun, Fast, & Easy TurtleCoin™ Payments For Developers, By Developers.
+- [Extra's Site](http://extra.trtl/) - Extra's personal site.
